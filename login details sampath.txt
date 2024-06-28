@@ -1,5 +1,9 @@
 login details 
 
+mail
+awsdevopsnani@gmail.com
+sampath@7862
+
 Minfy Laptop
 
 Username:Minfy
@@ -63,3 +67,13 @@ Linked in
 Username:awsdevopssampath@gmail.com
 Password:Sampath@7862
 
+
+AWS Account login 
+
+https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1
+rootuser name
+sampathbattu792@gmail.com
+Sampath@7862
+
+Access Key:AKIAUHSCIVMY4YVRVSPQ
+Secret key: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
