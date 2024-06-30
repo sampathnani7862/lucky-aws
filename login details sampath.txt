@@ -77,3 +77,5 @@ Sampath@7862
 
 Access Key:AKIAUHSCIVMY4YVRVSPQ
 Secret key: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
+
+C:\Users\user\Downloads\Telegram Desktop --telegram downloads path
